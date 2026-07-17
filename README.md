@@ -8,8 +8,6 @@ Scaffold a new project from this template without copying its git history:
 
 ```bash
 pnpx degit https://github.com/blyou/create-tsdown.git my-project
-cd my-project
-pnpm install
 ```
 
 ## Development
