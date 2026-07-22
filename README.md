@@ -7,7 +7,7 @@ A starter for creating a TypeScript package.
 Scaffold a new project from this template without copying its git history:
 
 ```bash
-pnpx degit https://github.com/blyou/create-tsdown.git my-project
+pnpx degit blyou/create-tsdown my-project
 ```
 
 ## Development
